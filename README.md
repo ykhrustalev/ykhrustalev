@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently working at Amazon on the Alexa hybrid engine. 
+
+You can reach out to be via yuri.khrustalev@gmail.com.
+
 <!--
 **ykhrustalev/ykhrustalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
