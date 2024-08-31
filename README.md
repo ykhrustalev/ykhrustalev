@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working at Amazon on the Alexa hybrid engine. 
+I am currently working on the LLM inference engine.
 
 You can reach out to be via yuri.khrustalev@gmail.com.
 
