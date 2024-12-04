@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am currently working on the LLM inference engine.
+I am currently working for [https://www.liquid.ai/](https://www.liquid.ai/) on the LLM inference engine.
 
-You can reach out to be via yuri.khrustalev@gmail.com.
+You can reach out to me via yuri.khrustalev@gmail.com.
 
 <!--
 **ykhrustalev/ykhrustalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
